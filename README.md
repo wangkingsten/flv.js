@@ -16,7 +16,7 @@ flv.js works by transmuxing FLV file stream into ISO BMFF (Fragmented MP4) segme
 [Media Source Extensions]: https://w3c.github.io/media-source/
 
 ## Demo
-[http://bilibili.github.io/flv.js/demo/](http://bilibili.github.io/flv.js/demo/)
+[https://wangkingsten.github.io/flv.js/demo/](https://wangkingsten.github.io/flv.js/demo/)
 
 ## Features
 - FLV container with H.264 + AAC / MP3 codec playback
